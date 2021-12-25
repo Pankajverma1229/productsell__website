@@ -1,0 +1,49 @@
+*{ 
+ margin:0px;
+ padding:0px;
+ }
+.navbar{ 
+        float:left;
+		background-color:#4834d4;
+	    height:60px;
+	    width:100%;
+		}
+.nav1 { 
+      height:60px;
+	  width:40%;
+	  }
+.nav2 { 
+      height:60px;
+	  width:60%;
+	  }	 	  
+.nav1 img{ 
+          height:60px;
+		  margin-left:-4px;
+		 }
+.logo { 
+      margin-left:80px;
+	  }		 
+.nav2 ul li{ 
+         list-style:none;
+  float:left;
+  margin-left:60px;
+  margin-top:8px;
+  font-size:36px;
+  color:white; 
+  font-family: Georgia, serif; 
+		 } 		 
+
+.main{ 
+     float:left;
+	 }	  
+.first{ 
+       height:1500px;
+	   width:70%;
+	   background-color:#dfe6e9;
+	   }
+.second{ 
+       height:1500px;
+	   width:30%;
+	   background-color:#1289A7;
+	   }	   
+	   

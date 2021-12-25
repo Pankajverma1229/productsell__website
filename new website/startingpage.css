@@ -1,0 +1,38 @@
+body{
+ background-image:url("startingpage4.jpg");
+ background-size:100%;
+ background-repeat:no-repeat;
+ }
+h1{ 
+  color:white;
+  margin-right:80px;
+  font-size:70px;
+  margin-top:50px;  
+  } 
+h2{  
+   color:white;
+   margin-left:200px;
+  font-size:100px;
+  margin-top:-40px;
+ } 
+ p{     height:40px;
+       width:600px;
+       color:#3c40c6;
+	   background-color:#d2dae2;
+	   margin-left:350px;
+	   margin-top:-60px;
+	   font-size:35px;
+	   text-align:center;
+	   } 
+button{ 
+     height:60px;
+	 width:200px;
+	 margin-left:540px;
+	 font-size:30px;
+	 background-color:#4834d4;
+	 color:white;
+	 }	 
+a{ 
+  text-decoration:none;
+  color:white;
+  }	 

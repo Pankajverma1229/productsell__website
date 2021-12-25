@@ -1,0 +1,146 @@
+*{ 
+ margin:0px;
+ padding:0px;
+ }
+ 
+.list a{ 
+        text-decoration:none;
+       color:white;}  
+.logo img{ height:70px;
+       width:200px;
+	   margin-top:-15px;
+	   margin-left:-10px;
+	   border:0px;
+	   } 
+.logo1  img{ height:70px;
+          width:150px;
+		  margin-top:-15px;
+	      margin-left:-60px;
+		  border:0px;
+		  }	   
+
+.navbar ul li{ list-style:none;
+  float:left;
+  margin-left:60px;
+  margin-top:8px;
+  font-size:36px;
+  color:white; 
+  font-family: Georgia, serif;  
+ }  
+ 
+.button button{ 
+     background-color:#ffffff;
+	 color:#4834d4;
+	 font-size:25px;
+	 margin-left:-20px;
+	 } 	 
+.list{ 
+     margin-left:600px;
+	 } 
+.navbar{ 
+       background-color:#4834d4;
+	   height:62px;
+	   width:100%;
+	   }
+.offlogo {
+         float:left; 
+        }	
+.offlogo img{ 
+           height:300px;
+		   width:500px;
+		   margin-left:-300px;
+		   margin-top:40px;
+		   border:0px;
+		   }		
+.offlogo2 img{ 
+           height:300px;
+		   width:500px;
+		   margin-left:80px;
+           margin-top:40px;
+           border:0px;		   
+  		   }			   
+		
+	   
+.midsection{ background-color:#ffffff ;
+             height:1350px;
+			 width:100%
+			}	
+.first , .second , .third , .fourth
+{
+margin:10px;
+padding:20px;
+float:left;
+font-size:20px;
+text-align:center;
+}
+
+.text{ background-color:#dfe6e9;
+       color:#5f27cd;
+	   font-style:bold;
+	   font-size:22px;
+	   background-size:10px;
+	   margin-left:10px;
+	   font-family:Arial, Helvetica, sans-serif;  
+		 }
+
+img
+{   height:215px;
+    width:260px;
+	border:1px solid;
+	border-color:#C0C0C0;
+    margin-left:10px;
+	}	
+.footer{ 
+       float:left;
+       height:200px;
+	   width:100%;
+	   background-color:#c8d6e5;
+	  
+	   }	
+.footer1  li{
+          
+         list-style:square; 
+         font-size:20px;
+		 color:#222f3e;
+		 }		 
+
+.footer1{float:left;
+        margin-left:70px;
+		margin-top:30px;
+		}			  		 
+.footer2  li{
+         
+         list-style:square; 
+         font-size:20px;
+		 color:black;
+		 color:#222f3e;
+		 }
+.footer2{float:left;
+        margin-left:70px;
+		margin-top:30px;
+		}			 
+		 
+.footer3 ul li{
+          list-style:square; 
+         font-size:20px;
+		 color:black;
+		color:#130f40;
+		 }
+.footer3{float:left;
+        margin-left:70px;
+		margin-top:30px;
+		}
+.footer4 img{ 
+        
+		height:160px;
+		width:190px;
+		margin-top:20px;
+		margin-left:25px;
+		}
+.footer h1{ 
+          color:red;
+		  text-align:left;
+		  margin-left:-20px;
+		  margin-bottom:5px;
+		 
+		}		
